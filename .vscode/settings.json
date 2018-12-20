@@ -1,0 +1,21 @@
+{
+    "liveSassCompile.settings.formats":[
+       {
+           "extensionName": ".minus.css",
+           "format": "compressed",
+           "savePath": "/dist/css"
+       }
+   ],
+   "liveSassCompile.settings.excludeList": [
+      "**/node_modules/**",
+      ".vscode/**"
+   ],
+   "liveSassCompile.settings.includeItems":[
+        "src/scss/style.scss"
+   ],
+   "liveSassCompile.settings.generateMap": true,
+   "liveSassCompile.settings.autoprefix": [
+       "> 1%",
+       "last 5 versions"
+   ],
+}

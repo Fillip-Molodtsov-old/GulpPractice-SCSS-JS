@@ -1,0 +1,1 @@
+{"version":3,"sources":["b.scss","style.scss"],"names":[],"mappings":"AAAA,EACI,eAAgB,CCApB,EACI,SACA,SAAU,CACb,KAEG,mBACA,aAAsB,CACzB","file":"style-min.css","sourcesContent":["b{\r\n    color: aliceblue;\r\n}","@import 'b';\r\n*{\r\n    margin: 0;\r\n    padding: 0;\r\n}\r\nbody{\r\n    background: rgb(171, 60, 245);\r\n    color: rgb(72, 255, 0);\r\n}"]}
